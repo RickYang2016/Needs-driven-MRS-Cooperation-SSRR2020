@@ -12,7 +12,9 @@ In nature, from cell to human, all intelligent agents represent different kinds 
 * Teaming needs (enhancing group utility and group survival); 
 * Learning needs (self-upgrade and evolution).
 
-
+<div align = center>
+<img src="https://github.com/RickYang2016/Qin-Yang-PhD-Dissertation-SASS/blob/main/figures/sass.png" height="245" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Qin-Yang-PhD-Dissertation-SASS/blob/main/figures/sass.gif" height="250" alt="Hopper-V2 3SABC Video"/>
+</div>
 
 
 ## Conclusion
