@@ -34,7 +34,7 @@ In nature, from cell to human, all intelligent agents represent different kinds 
 
 ### Results
 <div align = center>
-<img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/scenarios.png" height="180" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/summary.gif" height="180" alt="Hopper-V2 3SABC Video"/>
+<img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/scenarios.png" height="100" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/summary.gif" height="100" alt="Hopper-V2 3SABC Video"/>
 </div>
 
 ## Conclusion
