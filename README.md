@@ -27,7 +27,7 @@ In nature, from cell to human, all intelligent agents represent different kinds 
 <img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/h-c.gif" height="210" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/h-o.gif" height="210" alt="Hopper-V2 3SABC Video"/>
 </div>
 
-### Heterogeneous team of Carrier and Observer with non-cooperative (NC)/ cooperative (C)
+### Heterogeneous team of Carrier and Observer with non-/cooperative (NC)/(C)
 <div align = center>
 <img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/he-nc.gif" height="210" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/he-c.gif" height="210" alt="Hopper-V2 3SABC Video"/>
 </div>
