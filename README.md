@@ -22,6 +22,10 @@ In nature, from cell to human, all intelligent agents represent different kinds 
 <img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/heter_cooper.png" height="230" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/overview.gif" height="230" alt="Hopper-V2 3SABC Video"/>
 </div>
 
+<div align = center>
+<img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/scenarios.png" height="190" alt="Hopper-V2 3SABC"/>
+</div>
+
 ### Homogeneous team of Carrier and Observer
 <div align = center>
 <img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/h-c.gif" height="210" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/h-o.gif" height="210" alt="Hopper-V2 3SABC Video"/>
@@ -34,7 +38,7 @@ In nature, from cell to human, all intelligent agents represent different kinds 
 
 ### Results
 <div align = center>
-<img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/scenarios.png" height="190" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/summary.gif" height="360" alt="Hopper-V2 3SABC Video"/>
+<img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/summary.gif" height="360" alt="Hopper-V2 3SABC Video"/>
 </div>
 
 ## Conclusion
