@@ -6,11 +6,11 @@ This paper focuses on the teaming aspects and the role of heterogeneity in a mul
 
 ## Needs-driven Model for Robot Cooperation
 In nature, from cell to human, all intelligent agents represent different kinds of hierarchical needs such as the low-level physiological needs (food and water) in microbe and animal; the high-level needs self-actualization (creative activities) in human being. Simultaneously, intelligent agents can cooperate or against each other based on their specific needs. As an artificial intelligence agent -- robot, to organize its behaviors and actions, we introduced the needs hierarchy of robots in to help MRS build cooperative strategies considering their individual and common needs. Specifically, the robots possess the following order of needs hierarchy: 
-**Safety needs (avoid collisions, safe environment, etc.); 
-Basic needs (Energy, time, mobility, etc.); 
-Capability needs (task-specific such as carry or supply resources); 
-Teaming needs (enhancing group utility and group survival); 
-Learning needs (self-upgrade and evolution).
+* Safety needs (avoid collisions, safe environment, etc.); 
+* Basic needs (Energy, time, mobility, etc.); 
+* Capability needs (task-specific such as carry or supply resources); 
+* Teaming needs (enhancing group utility and group survival); 
+* Learning needs (self-upgrade and evolution).
 
 
 
