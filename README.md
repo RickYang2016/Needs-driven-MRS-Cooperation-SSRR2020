@@ -11,9 +11,7 @@ This paper focuses on the teaming aspects and the role of heterogeneity in a mul
 
 
 ## Conclusion
-We presented an overview of the needs-driven cooperation model for heterogeneous multi-robot systems and theoretically analyzed the importance of heterogeneity in increasing rescue mission performance. We advanced the robot needs hierarchy established in our earlier work, formalized the general rescue mission, and categorized the robots in USAR missions as carriers, suppliers, and observers.
-
-As the higher-level intelligent creature globally, humans represent more complex and diversified needs such as personal security, health, friendship, love, respect, recognition, and so forth. When we consider humans and robots work as a team, organizing their needs and getting a common ground is a precondition for human-robot collaboration in urban search and rescue missions.
+We presented an overview of the needs-driven cooperation model for heterogeneous multi-robot systems and theoretically analyzed the importance of heterogeneity in increasing rescue mission performance. As the higher-level intelligent creature globally, humans represent more complex and diversified needs such as personal security, health, friendship, love, respect, recognition, and so forth. When we consider humans and robots work as a team, organizing their needs and getting a common ground is a precondition for human-robot collaboration in urban search and rescue missions.
 
 From a robot needs perspective, it first needs to guarantee human security and health, such as avoiding collision with humans, protecting them from radiation, and so forth. But in the higher level teaming needs, robots should consider human team members' specialty and capability to form corresponding heterogeneous Human-Robot team adapting specific rescue missions automatically.
 
