@@ -13,9 +13,12 @@ In nature, from cell to human, all intelligent agents represent different kinds 
 * Learning needs (self-upgrade and evolution).
 
 <div align = center>
-<img src="https://github.com/RickYang2016/Qin-Yang-PhD-Dissertation-SASS/blob/main/figures/sass.png" height="245" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/heter_cooper.png" height="250" alt="Hopper-V2 3SABC Video"/>
+<img src="https://github.com/RickYang2016/Qin-Yang-PhD-Dissertation-SASS/blob/main/figures/sass.png" height="300" alt="Hopper-V2 3SABC"/>
 </div>
 
+<div align = center>
+<img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/heter_cooper.png" height="245" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/heter_cooper.png" height="250" alt="Hopper-V2 3SABC Video"/>
+</div>
 
 ## Conclusion
 We presented an overview of the needs-driven cooperation model for heterogeneous multi-robot systems and theoretically analyzed the importance of heterogeneity in increasing rescue mission performance. As the higher-level intelligent creature globally, humans represent more complex and diversified needs such as personal security, health, friendship, love, respect, recognition, and so forth. When we consider humans and robots work as a team, organizing their needs and getting a common ground is a precondition for human-robot collaboration in urban search and rescue missions.
