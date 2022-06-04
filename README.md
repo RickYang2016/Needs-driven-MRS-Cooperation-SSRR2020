@@ -18,6 +18,8 @@ In nature, from cell to human, all intelligent agents represent different kinds 
 
 ## Numerical Evaluation
 ### Experiment Setting in a Rescue Mission
+To simulate the above problem, we use [Unity](https://unity.com/) game engine and build a simple scenario to verify our results. We design two kinds of experiments -- Homogeneous and Heterogeneous MRS Cooperation and consider two categories of robots -- Carrier and Observer implemented in the specific experiments.
+
 <div align = center>
 <img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/heter_cooper.png" height="230" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/overview.gif" height="230" alt="Hopper-V2 3SABC Video"/>
 </div>
