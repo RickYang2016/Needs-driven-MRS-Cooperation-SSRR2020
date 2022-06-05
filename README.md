@@ -41,7 +41,7 @@ To simulate the above problem, we use [Unity](https://unity.com/) game engine an
 
 ### Summary
 <div align = center>
-<img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/summary.gif" height="360" alt="Hopper-V2 3SABC Video"/>
+<img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/summary.gif" height="360" width="640" alt="Hopper-V2 3SABC Video"/>
 </div>
 
 ## Conclusion
