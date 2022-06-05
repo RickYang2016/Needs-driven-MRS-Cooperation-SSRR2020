@@ -38,7 +38,7 @@ To simulate the above problem, we use [Unity](https://unity.com/) game engine an
     <div align = center>
     <img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/he-nc.gif" height="201" width="358" alt="Hopper-V2 3SABC"><img src="https://github.com/RickYang2016/Needs-driven-MRS-Cooperation-SSRR2020/blob/master/figures/he-c.gif" height="201" width="358" alt="Hopper-V2 3SABC Video"/>
     </div>
-    *Note: Please check the [Link](https://youtu.be/2pdTY9_aOi8) for more details.
+    *Note: Check the [Link](https://youtu.be/2pdTY9_aOi8) for the full demonstration.
 
 ### Summary
 <div align = center>
